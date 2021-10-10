@@ -1,0 +1,2 @@
+rootProject.name = "andersen_hometask5_fragments"
+include ':app'
